@@ -1,0 +1,2 @@
+tested 2620 cases (u from 0.01 to 3.2): violations 0
+gamma_max/gamma*: median 1.006, 90% 8.936, max 44.314, unbounded 23 of 300

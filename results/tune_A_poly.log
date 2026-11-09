@@ -1,0 +1,14 @@
+[A_poly] cubic    seed 0: |dr|=4.527e-03 x=[3.319 0.005] mono=False (1830 evals, 42s)
+[A_poly] cubic    seed 1: |dr|=4.527e-03 x=[3.319 0.005] mono=False (1830 evals, 42s)
+[A_poly] cubic    seed 2: |dr|=4.527e-03 x=[3.319 0.005] mono=False (1830 evals, 43s)
+   best cubic: transfer v=1: 20:6.37e-04 30:1.06e-03 50:1.96e-03 100:4.53e-03 150:9.90e-03 200:1.27e-02 300:3.05e-02
+[A_poly] cubic_m  seed 0: |dr|=4.870e-03 x=[1.012 1.   ] mono=True (1830 evals, 25s)
+[A_poly] cubic_m  seed 1: |dr|=4.870e-03 x=[1.012 1.   ] mono=True (1830 evals, 27s)
+[A_poly] cubic_m  seed 2: |dr|=4.870e-03 x=[1.012 1.   ] mono=True (1830 evals, 25s)
+   best cubic_m: transfer v=1: 20:5.68e-04 30:9.42e-04 50:1.81e-03 100:4.87e-03 150:9.01e-03 200:1.38e-02 300:2.50e-02
+[A_poly] quintic  seed 0: |dr|=1.161e-03 x=[1.57  0.005] mono=False (1830 evals, 28s)
+[A_poly] quintic  seed 1: |dr|=1.161e-03 x=[1.57  0.005] mono=False (1830 evals, 26s)
+[A_poly] quintic  seed 2: |dr|=1.207e-03 x=[1.312 0.005] mono=False (1830 evals, 31s)
+   best quintic: transfer v=1: 20:5.27e-05 30:1.15e-04 50:3.05e-04 100:1.16e-03 150:6.07e-03 200:1.00e+00 300:1.00e+00
+   parabola  v=1: 20:5.56e-04 30:9.10e-04 50:1.77e-03 100:4.89e-03 150:8.90e-03 200:1.37e-02 300:2.49e-02
+   default   v=1: 20:9.01e-05 30:1.91e-04 50:5.16e-04 100:2.09e-03 150:4.69e-03 200:8.16e-03 300:1.71e-02

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cpcut"
+version = "1.0.0"
+description = "Shape-preserving C2 cut-offs of the Casimir-Polder potential for quantum-reflection simulations"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+  {name = "Zainor Ridzuan Yahya", email = "zainoryahya@unimap.edu.my"},
+  {name = "M. N. A. Halif", email = "m.nazri@unimap.edu.my"},
+]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "scipy>=1.11"]
+
+[project.optional-dependencies]
+paper = ["matplotlib>=3.8", "sympy>=1.12"]
+test = ["pytest>=7"]
+
+[tool.setuptools]
+packages = ["cpcut"]

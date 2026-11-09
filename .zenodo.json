@@ -1,0 +1,13 @@
+{
+  "title": "cpcut: shape-preserving C2 cut-offs of the Casimir-Polder potential for quantum-reflection simulations",
+  "upload_type": "software",
+  "description": "<p>Python package and scripts that reproduce every number and figure of Z. R. Yahya and M. N. A. Halif, <i>Shape-preserving C<sup>2</sup> cut-off of the Casimir-Polder potential for quantum-reflection simulations of Bose-Einstein condensates</i> (submitted to Computer Physics Communications).</p><p>The package builds truncated Casimir-Polder potentials (hard cut-off, C<sup>1</sup> parabola, C<sup>1</sup> cubic, C<sup>2</sup> polynomial quintic and the monotone C<sup>2</sup> rational quintic transition), computes the spurious reflection each causes with a stationary scattering solver, and includes a one-dimensional time-dependent Gross-Pitaevskii solver (split-step Fourier with complex absorbing potentials). Result files of all runs reported in the paper are included.</p>",
+  "creators": [
+    {"name": "Yahya, Zainor Ridzuan", "affiliation": "Universiti Malaysia Perlis"},
+    {"name": "Halif, M. N. A.", "affiliation": "Universiti Malaysia Perlis"}
+  ],
+  "license": "MIT",
+  "keywords": ["quantum reflection", "Casimir-Polder potential", "Gross-Pitaevskii equation", "Bose-Einstein condensate", "shape-preserving interpolation", "rational quintic", "differential evolution"],
+  "version": "1.0.0",
+  "language": "eng"
+}

@@ -1,0 +1,5 @@
+Rb v=0.5: R_true=3.294e-02  max 0.125 at 800 nm, dips at [500]
+Rb v=1.0: R_true=5.450e-03  max 0.049 at 700 nm, dips at [400]
+Rb v=2.5: R_true=1.753e-04  max 0.013 at 500 nm, dips at []
+Na v=1.0: R_true=0.3587 hard(0.15um)=0.3551 ratio 0.990
+Na v=2.5: R_true=0.1171 hard(0.15um)=0.1006 ratio 0.859

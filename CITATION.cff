@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper and the archived software."
+title: "cpcut: shape-preserving C2 cut-offs of the Casimir-Polder potential"
+version: 1.0.0
+date-released: 2026-11-09
+license: MIT
+authors:
+  - family-names: Yahya
+    given-names: Zainor Ridzuan
+    email: zainoryahya@unimap.edu.my
+    affiliation: "Universiti Malaysia Perlis"
+  - family-names: Halif
+    given-names: M. N. A.
+    email: m.nazri@unimap.edu.my
+    affiliation: "Universiti Malaysia Perlis"
+keywords:
+  - quantum reflection
+  - Casimir-Polder potential
+  - Gross-Pitaevskii equation
+  - shape-preserving interpolation
+  - rational quintic
+preferred-citation:
+  type: article
+  title: "Shape-preserving C2 cut-off of the Casimir-Polder potential for quantum-reflection simulations of Bose-Einstein condensates"
+  authors:
+    - family-names: Yahya
+      given-names: Zainor Ridzuan
+    - family-names: Halif
+      given-names: M. N. A.
+  journal: "Computer Physics Communications"
+  status: submitted
+  year: 2026
