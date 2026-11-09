@@ -1,6 +1,6 @@
 # cpcut: shape-preserving C² cut-offs of the Casimir–Polder potential
 
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI.svg)](https://doi.org/ZENODO_DOI)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24070725.svg)](https://doi.org/10.5281/zenodo.24070725)
 
 Code and data for
 
@@ -76,7 +76,7 @@ Table 6 `td_batch1.json`, `td_parabola_g.json`, `td_earlier_2.json`.
 ## Cite
 
 If you use this code, please cite the paper above and the archived software
-(DOI: ZENODO_DOI). Citation metadata are in `CITATION.cff`.
+(DOI: [10.5281/zenodo.24070725](https://doi.org/10.5281/zenodo.24070725)). Citation metadata are in `CITATION.cff`.
 
 ## Licence
 

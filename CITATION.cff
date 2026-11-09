@@ -4,6 +4,8 @@ title: "cpcut: shape-preserving C2 cut-offs of the Casimir-Polder potential"
 version: 1.0.0
 date-released: 2026-11-09
 license: MIT
+doi: 10.5281/zenodo.24070725
+repository-code: "https://github.com/zainoryahya/cpcut"
 authors:
   - family-names: Yahya
     given-names: Zainor Ridzuan
